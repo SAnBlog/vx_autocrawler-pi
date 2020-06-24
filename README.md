@@ -1,10 +1,14 @@
 # vx_autocrawler
 
 #### 介绍
-微信小程序抓取爬虫项目后台，只需要实现一个接口即可实现一个抓取。无需管理调度，简单强大。
+基于微信小程序抓取爬虫项目后台修改，只需要实现一个接口即可实现一个抓取。无需管理调度，简单强大。
 
+#### 效果图
+
+https://img-1251747095.file.myqcloud.com/img/20200624210130.jpg
+![](https://img-1251747095.file.myqcloud.com/img/20200624210130.jpg)
 #### 微信小程序
-https://gitee.com/SAnBlog/vx_autohot
+https://gitee.com/SAnBlog/vx_autocrawler
 
 #### 安装教程
 
