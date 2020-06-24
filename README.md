@@ -3,10 +3,14 @@
 #### 介绍
 基于微信小程序抓取爬虫项目后台修改，只需要实现一个接口即可实现一个抓取。无需管理调度，简单强大。
 
+#### 部署教程
+
+[树莓派爬虫多平台热搜榜轮播展示](https://app.sanii.cn/?p=260)
+
 #### 效果图
 
 https://img-1251747095.file.myqcloud.com/img/20200624210130.jpg
-![](https://img-1251747095.file.myqcloud.com/img/20200624210130.jpg)
+![](https://images.gitee.com/uploads/images/2020/0624/220705_7e2eda72_1393640.jpeg)
 #### 微信小程序
 https://gitee.com/SAnBlog/vx_autocrawler
 
